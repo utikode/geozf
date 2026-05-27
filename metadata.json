@@ -1,0 +1,6 @@
+{
+  "name": "Geometri ZF",
+  "description": "Zuhri Formalism - Geometri Ruang-Waktu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
